@@ -18,7 +18,7 @@
 ## ⭐ Comece por aqui: **Wiki de Troubleshooting**
 Se você veio buscando **diagnóstico e resolução de problemas em infraestrutura**, a melhor parte deste repositório está na **Wiki**.
 
-🚀 **Acesse agora:** **[📚 Wiki — Troubleshooting de Infraestrutura](../../wiki)**
+🚀 **Acesse agora:** **[📚 Wiki — Troubleshooting de Infraestrutura](../../wiki/📚-Wiki-—-Troubleshooting-de-Infraestrutura)**
 
 > Lá você encontra documentações práticas, checklists, comandos úteis, guias de incident response, análise de logs e boas práticas para ambientes Linux/Windows e redes.
 
@@ -31,8 +31,6 @@ Se você veio buscando **diagnóstico e resolução de problemas em infraestrutu
 ✅ **Windows Server** (Event Viewer, AD/DNS/DHCP, rede, performance)  
 ✅ **Observabilidade** (Zabbix, Grafana, logs centralizados)  
 ✅ **Casos e cenários reais** (com sintomas → causa → solução)  
-
-📌 **Atalho:** **[🔎 Ir para o índice da Wiki](../../wiki/Home)** *(ou a página inicial que você definir)*
 
 ---
 
