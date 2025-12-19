@@ -64,6 +64,9 @@ Se você veio buscando **diagnóstico e resolução de problemas em infraestrutu
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
+### 🗂️ Documentação & CMDB
+<p align="left"> <img src="https://img.shields.io/badge/NetBox-007ACC?style=for-the-badge&logo=netbox&logoColor=white"/> </p>
+
 ---
 
 ## 📌 Como este repositório está organizado
