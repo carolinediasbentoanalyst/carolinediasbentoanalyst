@@ -1,95 +1,85 @@
-# 👋 Olá, eu sou Caroline Bento
+# 👋 Caroline Bento — Redes | Infra | Troubleshooting
 
-<p align="left"> <a href="https://www.linkedin.com/in/carolinediasbento"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:caroline.diasbento@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/carolinediasbento">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:caroline.diasbento@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-💻 Analista de Redes e Infraestrutura </br>
-📍 Quase 4 anos de experiência em redes e infraestrutura, atualmente atuando como Analista de redes e infraestrutura em Datacenter</br>
-🎓 Estudante Superior em Redes de Computadores</br>
+💻 **Analista de Redes e Infraestrutura (Datacenter)**  
+🏅 **MTCNA – MikroTik Certified Network Associate** (ID: 2509NA1551)  
+🎓 **Redes de Computadores** (em andamento)
 
-## 🎓 Certificações
+---
 
-<p align="left"> <img src="https://img.shields.io/badge/MTCNA-Certified-blue?style=for-the-badge&logo=mikrotik&logoColor=white"/> </p>
+## ⭐ Comece por aqui: **Wiki de Troubleshooting**
+Se você veio buscando **diagnóstico e resolução de problemas em infraestrutura**, a melhor parte deste repositório está na **Wiki**.
 
-🏅 MTCNA – MikroTik Certified Network Associate
-📄 ID da Certificação: 2509NA1551
+🚀 **Acesse agora:** **[📚 Wiki — Troubleshooting de Infraestrutura](../../wiki)**
 
-## 🚀 Sobre mim
+> Lá você encontra documentações práticas, checklists, comandos úteis, guias de incident response, análise de logs e boas práticas para ambientes Linux/Windows e redes.
 
-Profissional focada em infraestrutura, redes e observabilidade, com atuação em ambientes críticos e foco em disponibilidade, segurança e performance.
+---
 
-🔧 Experiência com MikroTik, pfSense, Zabbix, Grafana, Linux, Windows Server, SQL, Graylog, troubleshooting avançado e automação
+## 🧭 O que você vai encontrar na Wiki
+✅ **Playbooks de troubleshooting** (passo a passo)  
+✅ **Diagnóstico de rede** (latência, perda, rota, DNS, MTU, NAT, firewall)  
+✅ **Linux** (logs, serviços, performance, disco, memória, processos)  
+✅ **Windows Server** (Event Viewer, AD/DNS/DHCP, rede, performance)  
+✅ **Observabilidade** (Zabbix, Grafana, logs centralizados)  
+✅ **Casos e cenários reais** (com sintomas → causa → solução)  
 
-📊 Atuação com monitoramento, análise de logs e resolução de incidentes
+📌 **Atalho:** **[🔎 Ir para o índice da Wiki](../../wiki/Home)** *(ou a página inicial que você definir)*
 
-🎯 Em constante evolução técnica e preparação para novas certificações
+---
 
 ## 🛠️ Tecnologias & Ferramentas
-
 ### 🌐 Redes & Infra
-
-<p align="left"> <img src="https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/> <img src="https://img.shields.io/badge/pfSense-002B5C?style=for-the-badge&logo=pfsense&logoColor=white"/> <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pfSense-002B5C?style=for-the-badge&logo=pfsense&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
 ### 🐧 Linux (Distribuições)
-
-<p align="left"> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/> <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/> <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+</p>
 
 ### 📈 Observabilidade
-
-<p align="left"> <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
 
 ### 🤖 Automação & Banco de Dados
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
+---
 
-## 🔍 Troubleshooting Avançado
+## 📌 Como este repositório está organizado
+- **README** → visão geral rápida + acesso para a Wiki  
+- **Wiki** → **documentação principal** de troubleshooting e guias práticos  
+- **/labs (opcional)** → labs e exemplos práticos quando aplicável
 
+📚 **Wiki (principal):** **[Acessar a Wiki](../../wiki)**
 
-### 🐧 Linux
+---
 
-Análise de logs (journalctl, /var/log)
+## 🤝 Quer sugerir melhorias?
+Se você encontrar algo para melhorar (ou quiser sugerir um tópico de troubleshooting):
+- Abra uma **Issue** com o tema e o cenário
+- Ou me chame no **LinkedIn**
 
-Diagnóstico de rede (tcpdump, ss, netstat, traceroute)
+---
 
-Monitoramento de processos (top, htop, dstat)
-
-Gerenciamento de usuários e permissões
-
-
-### 🪟 Windows Server
-
-Diagnóstico com Event Viewer e PowerShell
-
-Troubleshooting de rede (ping, tracert, netsh)
-
-Análise de performance (Task Manager, Performance Monitor)
-
-Administração de AD, DNS e DHCP
-
-
-
-## 🎯 Roadmap de Estudos
-
-⏳ MTCRE -> MTCINE
-
-⏳ Zabbix Certified Specialist
-
-⏳ Automação com Ansible
-
-⏳ Observabilidade avançada e segurança de redes
-
-
-### 📌 Objetivos Atuais
-
-✔️ Evoluir tecnicamente em infraestrutura e redes
-✔️ Criar e documentar labs práticos no GitHub
-✔️ Consolidar carreira em Datacenter e Observabilidade
-
-
-### 📚 Formação Acadêmica
-
-🎓 Graduação em Redes de Computadores
-(Em andamento)
-
-
-
-⚡ “Infraestrutura confiável começa com observabilidade, automação e segurança.”
+⚡ *“Infraestrutura confiável começa com observabilidade, método e documentação.”*
