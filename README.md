@@ -70,9 +70,9 @@ Se você veio buscando **diagnóstico e resolução de problemas em infraestrutu
 ## 📌 Como este repositório está organizado
 - **README** → visão geral rápida + acesso para a Wiki  
 - **Wiki** → **documentação principal** de troubleshooting e guias práticos  
-- **/labs (opcional)** → labs e exemplos práticos quando aplicável
+- **/labs** → labs e exemplos práticos quando aplicável (Logo mais disponíveis para todos)
 
-📚 **Wiki (principal):** **[Acessar a Wiki](../../wiki)**
+📚 **Wiki:** **[Acessar a Wiki](../../wiki/📚-Wiki-—-Troubleshooting-de-Infraestrutura)**
 
 ---
 
